@@ -20,3 +20,6 @@ content:
 - Method overriding
 - User-defined exceptions
 - Assert statement
+- Math functions
+- Loop control statements
+- Random module

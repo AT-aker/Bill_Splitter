@@ -70,5 +70,28 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/12899#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |-
+    Error in test #1
+
+    Program ran out of input. You tried to read more than expected.
+
+    Please find below the output of your program during this failed test.
+    Note that the '>' character indicates the beginning of the input line.
+
+    ---
+
+    Enter the number of friends joining (including you):
+    > 5
+    Enter the name of every friend (including you),each on a new line:
+    > Marc
+    > Jem
+    > Monica
+    > Anna
+    > Sam
+    Enter the total bill value:
+    > 100
+    Do you want to use the "Who is lucky?" feature? Write Yes/No:
+  time: Tue, 19 Apr 2022 11:13:15 UTC
 record: -1

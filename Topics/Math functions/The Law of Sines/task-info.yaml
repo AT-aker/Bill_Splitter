@@ -2,13 +2,11 @@ type: code
 files:
 - name: main.py
   visible: true
-  text: |-
-    def discounts(x, y):
-        ...
+  text: '# put your code here'
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/10377#comment
+feedback_link: https://hyperskill.org/learn/step/19314#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Mon, 18 Apr 2022 12:23:13 UTC
+  time: Mon, 18 Apr 2022 15:53:53 UTC
 record: -1
